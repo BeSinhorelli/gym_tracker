@@ -22,11 +22,7 @@ Um aplicativo para controle de treinos desenvolvido em Flutter para amantes de m
 
 ## 📸 Screenshots
 
-![Screenshot_2025-11-26-13-53-34-372_com example gym_tracker2](https://github.com/user-attachments/assets/eb603beb-c16a-44f1-8215-7f2469e690f8)
-![Screenshot_2025-11-26-13-54-11-365_com example gym_tracker2](https://github.com/user-attachments/assets/8d0d18e5-6e87-475e-845e-8104d7e6ac80)
-![Screenshot_2025-11-26-13-55-41-764_com example gym_tracker2](https://github.com/user-attachments/assets/4be35c95-a52f-4a76-ac5d-03d31e5439e1)
-![Screenshot_2025-11-26-13-55-56-224_com example gym_tracker2](https://github.com/user-attachments/assets/1ba8b69a-46f6-4475-a8b7-5238f9f5f332)
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/eb603beb-c16a-44f1-8215-7f2469e690f8" width="220" /> <img src="https://github.com/user-attachments/assets/8d0d18e5-6e87-475e-845e-8104d7e6ac80" width="220" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/4be35c95-a52f-4a76-ac5d-03d31e5439e1" width="220" /> <img src="https://github.com/user-attachments/assets/1ba8b69a-46f6-4475-a8b7-5238f9f5f332" width="220" /> </p>
 
 
 ## 🛠️ Como executar
@@ -40,3 +36,4 @@ flutter pub get
 
 # Executar o app
 flutter run
+
