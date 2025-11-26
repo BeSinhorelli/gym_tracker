@@ -18,7 +18,7 @@ Um aplicativo para controle de treinos desenvolvido em Flutter para amantes de m
 - **Dart** - Linguagem de programação
 - **Provider** - Gerenciamento de estado
 - **Shared Preferences** - Armazenamento local
-- **Material Design 3** - Design system
+- **Material Design** - Design system
 
 ## 📸 Screenshots
 
@@ -36,4 +36,5 @@ flutter pub get
 
 # Executar o app
 flutter run
+
 
